@@ -20,8 +20,8 @@ body {
 
 .profile {
   justify-content: flex-start;
-  padding-right: 200px;
-  padding-left: 30px;
+  padding-right: 160px;
+  padding-left: 60px;
 }
 
 .contact {
@@ -30,8 +30,12 @@ body {
 }
 
 .professional_summary {
-  border: 2px dotted orange;
+  padding-top: 50px;
   font-size: medium;
+}
+
+.professional_summary > h1 {
+  text-align: center;
 }
 
 .pt-serif-regular {
