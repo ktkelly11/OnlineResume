@@ -1,11 +1,12 @@
 img {
-  height: 200px;
+  height: 250px;
   width: auto;
   padding: 20px;
+  border-radius: 50%;
 }
 
-#main_container {
-  border: 2px solid purple;
+body {
+  background-color: rgb(227, 244, 250);
 }
 
 .intro {
@@ -18,15 +19,14 @@ img {
 }
 
 .profile {
-  border: 2px dotted blue;
   justify-content: flex-start;
   padding-right: 200px;
+  padding-left: 30px;
 }
 
 .contact {
-  border: 2px dotted green;
   justify-content: center;
-  padding: 60px;
+  padding: 100px;
 }
 
 .professional_summary {
