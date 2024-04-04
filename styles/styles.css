@@ -3,6 +3,7 @@ img {
   width: auto;
   padding: 20px;
   border-radius: 50%;
+  box-shadow: 20px 20px rgb(199, 235, 247);
 }
 
 body {
