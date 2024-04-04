@@ -28,6 +28,8 @@ body {
 
 .profile > h1 {
   font-size: 45px;
+  margin-top: 40px;
+  margin-bottom: 0px;
 }
 
 .contact {
@@ -37,6 +39,8 @@ body {
 
 .professional_summary {
   padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
   font-size: medium;
 }
 
@@ -45,7 +49,7 @@ body {
 }
 
 .employment {
-  padding-top: 30px;
+  padding-top: 10px;
 }
 
 .employment > h1 {
@@ -61,8 +65,42 @@ body {
 h2,
 h3 {
   font-size: 20px;
+  margin: 0;
+}
+
+.census > h2 {
+  padding-left: 0px;
 }
 
 .kindergarten {
-  padding: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.kindergarten > h1,
+h2,
+h3 {
+  font-size: 20px;
+  margin: 0;
+}
+
+.kindergarten > h2 {
+  padding-left: 0px;
+}
+
+.education > h1 {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.wooster > h1,
+h2 {
+  padding-left: 30px;
+  font-size: 20px;
+  margin: 0;
+}
+
+.wooster > p {
+  padding-left: 30px;
+  margin: 0;
 }
