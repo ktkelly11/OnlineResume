@@ -2,3 +2,23 @@ img {
   height: 150px;
   width: auto;
 }
+
+#main_container {
+  display: flex;
+  border: 2px solid purple;
+}
+
+.section1 {
+  border: 2px solid black;
+  width: 100%;
+}
+
+.profile {
+  border: 2px dotted blue;
+  justify-content: flex-end;
+}
+
+.contact {
+  border: 2px dotted green;
+  justify-content: flex-end;
+}
