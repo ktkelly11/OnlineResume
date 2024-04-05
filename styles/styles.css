@@ -37,6 +37,10 @@ body {
   padding: 150px 60px 150px 50px;
 }
 
+hr {
+  border-color: rgb(199, 235, 247);
+}
+
 .professional_summary {
   padding-top: 10px;
   padding-left: 20px;
