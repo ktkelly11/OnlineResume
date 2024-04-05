@@ -48,6 +48,16 @@ body {
   text-align: center;
 }
 
+.skills > h1 {
+  padding-top: 10px;
+  text-align: center;
+}
+
+.languages > p {
+  padding-left: 30px;
+  margin: 0px;
+}
+
 .employment {
   padding-top: 10px;
 }
